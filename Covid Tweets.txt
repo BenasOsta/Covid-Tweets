@@ -1,3 +1,11 @@
+API Key'VIhMdEjUNEcaPbtnf1Ia8gwnR'
+API Secret Key '93qxRJ9m76PcYirplAdtHDQkHmvXit7Y27UJ6uHCO68k1T7uVa'
+access token '1040305253214769152-8U2oIwTOUXvNb1cZH8YINn8sTBwq85'
+access token secret ='KZOqhZprYAjcLEvRgKSr42OUxJmBFCz0sdZibPt7RmtMh'
+
+search query = 'Covid-19'
+
+
 wave before second wave covid 19 cases sharply rising across us https co iqd4m0rk9b via wsav : ['neutral']
 the united states is inching closer to averaging 50 000 new coronavirus cases each day mark the country hasn https co ujf0utwzaq : ['negative']
 a 25 year old man becomes first in the s to contract coronavirus twice with second infection more severe https co krtdbztde2 : ['neutral']
